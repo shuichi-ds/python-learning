@@ -1,1 +1,19 @@
 .ipynb_checkpoints/
+
+# ===== Jupyter / Python =====
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# ===== Jupyter Lab / Anaconda =====
+.virtual_documents/
+.ipython/
+.jupyter/
+
+# ===== OS依存 =====
+.DS_Store
+Thumbs.db
+
+# ===== Python venv (念のため) =====
+venv/
+.env/
